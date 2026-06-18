@@ -1,0 +1,25 @@
+[
+{
+"name":"BMW G310GS",
+"price":"₹4.20 Lakh",
+"engine":"313cc",
+"power":"34 HP",
+"image":"IMAGES/GS3.JPG"
+},
+
+{
+"name":"BMW S1000RR",
+"price":"₹21.50 Lakh",
+"engine":"999cc",
+"power":"206 HP",
+"image":"IMAGES/S1000RR2.jpg"
+},
+
+{
+"name":"BMW M1000RR",
+"price":"₹49.00 Lakh",
+"engine":"999cc",
+"power":"212 HP",
+"image":"IMAGES/M1000RR2.JPG"
+}
+]
